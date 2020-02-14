@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="032195a6-c1c6-42d5-8295-8a0784c937cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xn04JJqFAjUlg0qULnIM6rIxeH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckPrime" />
+      <module name="DisplayPrime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckPrime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="032195a6-c1c6-42d5-8295-8a0784c937cb" name="Default Changelist" comment="" />
+      <created>1581666358895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581666358895</updated>
+      <workItem from="1581666360225" duration="1245000" />
+      <workItem from="1581667624242" duration="16000" />
+      <workItem from="1581667655933" duration="442000" />
+      <workItem from="1581672720672" duration="210000" />
+      <workItem from="1581672942618" duration="35000" />
+      <workItem from="1581672997828" duration="532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="852" height="346" key="GridCell.Tab.0.bottom" timestamp="1581673517439">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="852" height="346" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1581673517439" />
+    <state width="852" height="346" key="GridCell.Tab.0.center" timestamp="1581673517438">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="852" height="346" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1581673517438" />
+    <state width="852" height="346" key="GridCell.Tab.0.left" timestamp="1581673517438">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="852" height="346" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1581673517438" />
+    <state width="852" height="346" key="GridCell.Tab.0.right" timestamp="1581673517439">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="852" height="346" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1581673517439" />
+  </component>
+</project>
